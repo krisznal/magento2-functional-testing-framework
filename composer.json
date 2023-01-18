@@ -1,5 +1,5 @@
 {
-    "name": "magento/magento2-functional-testing-framework",
+    "name": "krisznal/magento2-functional-testing-framework",
     "description": "Magento2 Functional Testing Framework",
     "type": "library",
     "version": "4.0.1",
